@@ -1,0 +1,16 @@
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\HippoBilling.Core.dll
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\HippoBilling.Core.pdb
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\Castle.Core.dll
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\Castle.Windsor.dll
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\log4net.dll
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\Castle.Core.xml
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\Castle.Windsor.xml
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\log4net.xml
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\obj\Debug\HippoBilling.Core.csprojResolveAssemblyReference.cache
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\obj\Debug\HippoBilling.Core.Resources.CoreResource.resources
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\obj\Debug\HippoBilling.Core.csproj.GenerateResource.Cache
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\obj\Debug\HippoBilling.Core.dll
+D:\scottwei\peter(html,css)\New folder\HippoBilling\Src\HippoBilling.Core\obj\Debug\HippoBilling.Core.pdb

@@ -1,0 +1,109 @@
+﻿
+@{
+    ViewBag.Title = "Authorizations";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row addbutton">
+    <div class="col-md-12 account">
+        <a href="/authorizations/new" class="btn cgreen">New Authorization Request<img src="/assets/img/add-icon.png" style="margin-left: 10px;" height="40px" /></a>
+    </div>
+</div>
+
+<br />
+
+<div class="col-md-12 default-content">
+    <div class="col-md-12 content-bar">
+        <div class="col-md-2">
+            <h3>Authorization</h3>
+        </div>
+        <div class="col-md-1 result pull-right">
+            <span class="fgrey">3 Results</span>
+        </div>
+    </div>
+    <div class="col-md-12 action-bar">
+        <a href="#" class="col-md-1 pending">Pending</a>
+        <a href="#" class="col-md-1 completed active">Completed</a>
+    </div>
+    <div class="col-md-12" id="pendingView" style="display: none;">
+        <table class="table table-custom">
+            <thead>
+                <tr>
+                    <th>Name <i class="fa fa-angle-down"></i></th>
+                    <th>Insurance <i class="fa fa-angle-down"></i></th>
+                    <th>Submitted Date <i class="fa fa-angle-down"></i></th>
+                    <th>Completed Date <i class="fa fa-angle-down"></i></th>
+                    <th>Provider Name <i class="fa fa-angle-down"></i></th>
+                    <th>Location <i class="fa fa-angle-down"></i></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Patient Name</td>
+                    <td>ABC123 - INSURANCE PROFILE</td>
+                    <td>12/12/2014</td>
+                    <td>12/12/2014</td>
+                    <td>Name 1</td>
+                    <td>Location 1</td>
+                </tr>
+                <tr>
+                    <td>Patient Name</td>
+                    <td>ABC123 - INSURANCE PROFILE</td>
+                    <td>12/12/2014</td>
+                    <td>12/12/2014</td>
+                    <td>Name 2</td>
+                    <td>Location 2</td>
+                </tr>
+                <tr>
+                    <td>Patient Name</td>
+                    <td>ABC123 - INSURANCE PROFILE</td>
+                    <td>12/12/2014</td>
+                    <td>12/12/2014</td>
+                    <td>Name 3</td>
+                    <td>Location 3</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="col-md-12" id="completedView">
+        <table class="table table-custom">
+            <thead>
+                <tr>
+                    <th>Name <i class="fa fa-angle-down"></i></th>
+                    <th>Insurance <i class="fa fa-angle-down"></i></th>
+                    <th>Submitted Date <i class="fa fa-angle-down"></i></th>
+                    <th>Completed Date <i class="fa fa-angle-down"></i></th>
+                    <th>Provider Name <i class="fa fa-angle-down"></i></th>
+                    <th>Location <i class="fa fa-angle-down"></i></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Patient Name</td>
+                    <td>ABC123 - INSURANCE PROFILE</td>
+                    <td>12/12/2014</td>
+                    <td>12/12/2014</td>
+                    <td>Name 1</td>
+                    <td>Location 1</td>
+                </tr>
+                <tr>
+                    <td>Patient Name</td>
+                    <td>ABC123 - INSURANCE PROFILE</td>
+                    <td>12/12/2014</td>
+                    <td>12/12/2014</td>
+                    <td>Name 2</td>
+                    <td>Location 2</td>
+                </tr>
+                <tr>
+                    <td>Patient Name</td>
+                    <td>ABC123 - INSURANCE PROFILE</td>
+                    <td>12/12/2014</td>
+                    <td>12/12/2014</td>
+                    <td>Name 3</td>
+                    <td>Location 3</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
